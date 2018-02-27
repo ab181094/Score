@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Score</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_game">Game</string>
+    <string name="hit">Hit</string>
+    <string name="start">Start</string>
+    <string name="total">Total:</string>
+    <string name="overs">Overs:</string>
+    <string name="start_second_innings">Start Second Innings</string>
+    <string name="target">Target:</string>
+    <string name="play">Play</string>
+    <string-array name="one">
+        <item>A fine paddle scoop first ball. Full around middle and off, he gets underneath it and lofts the ball over short fine leg. Should have been more than one.</item>
+        <item>A slower delivery outside off, chopped towards backward point.</item>
+        <item>Another mis-timed scoop, toe-ended away to deep square leg.</item>
+        <item>Another slower ball, on the pads, worked away to deep square leg for one.</item>
+        <item>A low full toss outside off, bunted to cover for one.</item>
+        <item>An offcutter on the pads, nudged down to fine leg for a run.</item>
+        <item>A slower delivery again, straight, worked to midwicket.</item>
+        <item>Gives himself plenty of room, slower ball down leg, gets the inside half of the bat on an attempted drive, one to mid-on.</item>
+        <item>Whipped away over square leg, wanting to use the pace and flick through square leg but a leading edge to deep midwicket.</item>
+        <item>Good length, quick outside off, carved off the open face to third man for one.</item>
+        <item>Strays on the pads, worked to deep square leg for one.</item>
+        <item>Flat delivery around off, swept to deep midwicket for one.</item>
+        <item>Leg bye, pushed through, quick around leg, misses a nudge, off the pad towards point.</item>
+        <item>A yorker, low full toss actually, whipped to deep midwicket.</item>
+        <item>Tossed up outside off, backs away and hammers it along the floor to long-off.</item>
+        <item>Overpitched on middle stump, brings down and angled bat and hammers this along the turf to long-on.</item>
+    </string-array>
+    <string-array name="two">
+        <item>Digs that one in too, short around off and middle, bunted away through midwicket for a couple.</item>
+        <item>Too straight, just worked with the wrists behind square. Very intentional from Batsman, not over-hitting, relying on timing.</item>
+        <item>Short one on leg stump, follows him as he backs into the leg side. Swings cleanly and gets this pull out to deep midwicket where Batsman tumbles to his left and takes some time trying to locate the ball after getting up.</item>
+        <item>Badly timed away past midwicket for a couple more. Off the inside half.</item>
+        <item>A chip away to deep midwicket for a couple, in the gap nicely.</item>
+        <item>Flat and wide outside off, sliced away past point for a couple.</item>
+        <item>Hits another gap in the field. Good length outside off, he lofts the ball intentionally over cover this time for a couple.</item>
+        <item>Short around off, pulled past midwicket for two more. Square leg runs to his left.</item>
+        <item>Into the gap for another couple. So easy. On the pads and flicked away past midwicket.</item>
+        <item>Great running, full on leg, nudged with soft hands to deep midwicket. He gets two.</item>
+        <item>Two more, fine batting from Batsman, just nudged into the gap behind square for a couple more.</item>
+        <item>Slow and wide outside off, Batsman gets across and drags a sweep to deep midwicket for a couple.</item>
+        <item>88 kph, pushed wider outside off, driven past cover for a couple.</item>
+        <item>Two more. Wow. Just soooo easy. Shortish around off, nudged away towards midwicket with soft hands.</item>
+        <item>Chips down the pitch and flicks the ball into the gap at square leg for a couple more. Lots of twos, large dimensions.</item>
+        <item>Ooh, over point. In the air but falls in no-man\'s land. It was full outside off, Batsman clears his front leg, looking to go straight but the ball skews off the outside half, sliced. Gets enough bat to clear the infield.</item>
+    </string-array>
+    <string-array name="three">
+        <item>Good length at leg stump. Waits for it to come on and flicks late to long leg\'s left. Fielder runs a long way and slides awkwardly to keep it in. Throws hurriedly from the floor and that allows a third.</item>
+        <item>Sparkling stroke! Stands tall and punches this into the gap between cover and point. Picked the length early as he transferred his weight back to play the stroke. Fielder pulls it back in cleanly.</item>
+        <item>Back of a length outside off, stands tall and slices it between between point and cover. They come back for the third.</item>
+        <item>Wrong\'un, floated wide of off stump, and it provokes a rare error. Batsman reaches out to push into the covers, doesn\'t pick it, and gets a thick outside edge that runs away wide of slip.</item>
+        <item>Once again goes back into the crease and works this wrong\'un down to deep fine leg where Fielder slides and pulls it back in.</item>
+        <item>Uses the pace of the bowler to play this delicate dab past short third man, Fielder with the mopping up. Had to run back from slip, putting his wonky hamstrings to work.</item>
+        <item>Punched into the gap at deep cover. The initial call for two, but three it will be as Fielder takes a while to recover from the slide.</item>
+    </string-array>
+    <string-array name="four">
+        <item>A bit short this time, Batsman picks the length and says thanks mate. Slaps a pull over midwicket with so much ease. Disdain in that shot.</item>
+        <item>Yep, yep, yep. That\'s quality. Full, overpitched. And Batsman off-drives that with the full face of the bat, the timing is sublime, the placement is exquisite. All requisites for boundary-scoring.</item>
+        <item>Width and slashed. Can\'t bowl there. Too wide and Batsman lets his hands through the line, carving a cut from down to up so that it goes over the infield, past backward point.</item>
+        <item>Well played, found the gap and executed beautifully. A short and wide offcutter outside off, slapped away through cover, just to the fielder\'s left.</item>
+        <item>Into the gap and four. Good length on middle and leg, not fantastic timing but placed it well, a heave into the gap at midwicket, one bounce for four.</item>
+        <item>That would have been wide, but Batsman gives it all he has. A legcutter outside off, Batsman gets a thick outside edge which flies down to third man for four.</item>
+        <item>A full toss on middle and leg, looking for the yorker, flicked away past square leg for four. Superb timing.</item>
+        <item>Comes charging again, full delivery outside off, Batsman runs down and looks to go over the off side, a better option but the ball skews off the outside half towards third man again, to Bowler\'s left. He can\'t quite get across.</item>
+        <item>Flat and quick on middle and leg, Batsman backs away and slaps a pull down the ground, past Fielder at mid-on, who races back and makes it, but can\'t quite get to the ball.</item>
+        <item>Lovely shot. It\'s short on middle, Batsman rocks back, picks the length and pummels a pull through midwicket, finds the gap with ease.</item>
+        <item>Whatever you bowl, you have to bowl it well. That\'s a filthy slower ball, short down leg, and Batsman helps himself to four with a help-along to fine leg.</item>
+        <item>That\'s sensational batting. A low full toss outside off, Batsman picks his area again and just times the heck out of the ball. Chipped almost, but lands just inside the boundary. A little higher on the bat and that would be six.</item>
+        <item>Nicely played. Charges down, picks the slower ball and slices the ball intentionally over cover. That\'s a very clever stroke.</item>
+        <item>That\'s not a good ball and put away. Digs this in short outside off, swatted over point for four. Lands just inside the boundary.</item>
+        <item>Comes down to the pitch, gets there and drills a drive wide of cover. Good timing.</item>
+        <item>Gets enough, a slower short delivery. Batsman keeps his balance, his head is still and then slaps the ball over mid-on.</item>
+    </string-array>
+    <string-array name="out">
+        <item>A straight ball. It\'s the slower ball around middle and leg, Batsman fails to connect with a flick and knocks back middle and leg stump.</item>
+        <item>The googly. The googly outside off, Batsman tries to slog the ball over long-on, but hardly any connection. The ball goes straight up and long-on cleans up.</item>
+        <item>Gone! Full and wide outside off, the ball swinging away, Batsman hits the ball nicely, a languid drive but straight to Fielder at cover point. An easy, low catch.</item>
+        <item>This is a full toss angling in from wide of the crease, Batsman is through with the swing but this hits him just above the flap on his left pad. The leg stump was visible at the point of contact so the line was never in doubt. The ball was descending on him so height wasn\'t in question either. Once there was no inside edge on that, he was a dead duck anyway.</item>
+        <item>The slower delivery has done the trick. He was backing away to swing but this dipping full toss came back in to cramp him for room and deflect off the pad onto the stumps. Batsman was through with the swing way too early.</item>
+        <item>Has he taken that? Wow, tremendous reflexes. Freak catch. Just how did a 6 feet eight inch man get down so low on his followthrough to take that? Magical. It was hit hard too, so he had to react qucikly and he did so very well.</item>
+        <item>Full and straight and rapped on the pad. Bowler reviews straightaway. Could have been an inside edge. Otherwise looked dead straight. It\'s a slower cutter. Pitches really full and sneaks from underneath the bat which hits the pitch and hits him dead in front of middle. Ball-tracking says hitting leg-stump.</item>
+        <item>Tries to repeat the act and telegraphs a charge down the track. Bowler drags the length back and gets subtle turn and bounce. Batsman can\'t put bat to ball and gets stumped.</item>
+        <item>Oh, catch! What a stunning catch! Keeper with a stunner behind the stumps. Batsman shapes up for a pull off this short delivery. Has to fetch it from outside off and skews it in the air off the top edge. Keeper sprints back and has to make a dive at the last minute as he realises he isn\'t under it entirely yet. Those are so difficult to judge but he has made a superb late adjustment. Top stuff.</item>
+        <item>Chopped on, a much better delivery, it\'s a slower delivery on a good length outside off. Batsman tries to force the ball through the leg side, but the ball takes the inside edge and onto leg stump. A more-than-handy cameo.</item>
+        <item>Looking for the sweep. Straight and flat, Batsman misses a sweep, off the pad down to fine leg. A big appeal from the bowler, no says the umpire, and Captain reviews. This is very close, doesn\'t look like there is any bat or glove on that. Three reds on HawkEye and the decision is reversed. Good review.</item>
+        <item>The googly! Batsman doesn\'t pick it and pays the price. Bowler did him in with that flight, a googly with lots of loop is quite rare. Batsman does not move his feet, backs away and swings wildly, the ball finds a big gap between bat and pad to knock back off stump. Superb wristspin bowling.</item>
+        <item>The big slog is taken at cover, running back. Flight outside off, Batsman looks to hit the ball over mid-on but the ball is wider outside off. Takes the outside half and lobs up for Bowler to run back, keep his eyes on the ball and take a good reverse-cupped catch.</item>
+        <item>Fantastic comeback from Bowler, another slower ball on off, Batsman looks to clear his front leg and smash the ball over midwicket, but he does not make contact. It\'s on off, and the ball\'s path is unhindered. Poor shot, but he didn\'t waste too many.</item>
+        <item>A direct hit from Fielder and Batsman is gone. Lots of flight, Batsman comes down, can\'t quite muscle a heave over the infield. Hits it to Fielder at midwicket, who picks up and hits the stumps down at the bowler\'s end. Batsman had given up.</item>
+        <item>Taken at fine leg. A slow offcutter down leg to start, Batsman gets low, gets underneath but a top-edge lobs towards fine leg, who runs to his left and takes a good catch. Tried to put Bowler off but didn\'t work.</item>
+    </string-array>
+    <string-array name="dot">
+        <item>Not called a wide, fair enough, consistent umpiring. On the tramline outside off, a wide yorker, but fair call.</item>
+        <item>134 kph, terrific wide yorker, creeps underneath the bat.</item>
+        <item>135 kph, pulls the length back slightly. Short outside off, swinging away a touch. Defended. Better length.</item>
+        <item>The googly outside off, lovely length for that ball too, pushed back to the bowler.</item>
+        <item>An offcutter, slow around off, the ball beats the bat, past the outside edge.</item>
+        <item>A good wide yorker this time, 133 kph, inside the tramline, another dot.</item>
+        <item>Terrific delivery. A yorker around off, jammed out towards mid-off.</item>
+        <item>Not called a wide, fair enough, consistent umpiring. On the tramline outside off, a wide yorker, but fair call.</item>
+        <item>Flat and straight, worked to midwicket.</item>
+        <item>134 kph, a wide yorker, well bowled, just inside the tramline.</item>
+        <item>Full and wide outside off, hammered away to cover, on the bounce.</item>
+        <item>89 kph, shortish and wide, slapped to cover.</item>
+        <item>Flat and wide outside off, carved to backward point.</item>
+        <item>A dot ball to finish. Very quick around middle and leg, driven to mid-on.</item>
+        <item>Short and wide, Batsman tries to thrash the ball through point, but chops it away towards cover instead.</item>
+        <item>There for the shot, not a bad option. Full outside off, Batsman misses a scoop. Just no connection.</item>
+    </string-array>
+    <string-array name="six">
+        <item>A cutter on leg, Batsman comes charging at Bowler and like he has done so many times on this tour already, he wallops a swat over midwicket. Massive hit.</item>
+        <item>Six, a flat six. The tossed up googly on middle and leg, Batsman gets underneath the length, and lets his muscle do the rest, powers a six over wide long-on.</item>
+        <item>That\'s six. A slower delivery outside off, Batsman knew what was coming, he stayed in his crease and swung away over deep midwicket. Just clears the boundary.</item>
+        <item>Over long-on. Bowler makes the mistake of bowling this one full on leg. Batsman can just get forward and lift the ball over long-on, close enough to the pitch to go through with the shot.</item>
+        <item>86 kph, in the slot, and Batsman can get underneath that. Can\'t bowl so full on a surface that is spinning so much. Batsman doesn\'t time it well, but enough power to clear long-on.</item>
+        <item>Mistake! One mistake is enough at this level. This is full on middle and leg, and Batsman swings through the line, clean over long-on. Good hit.</item>
+        <item>You want power? You want timing? You want T20? Take it and go. On a length outside off, Batsman comes down, it\'s shortish, but still goes through with a lofted shot and it goes, and goes and goes into the top tier over mid-off. Shot of the tour.</item>
+        <item>Not great timing but six again. Short boundaries, help yourself. Good length on middle, Batsman stays in his crease and swats a pull. Over midwicket. six more.</item>
+        <item>Six more! Not timed, but six. These are the boundaries again. Another slower ball, not a bad option at all. but Batsman just lifts the ball straight, right over his partner. Six over long-on.</item>
+        <item>A slower delivery outside off, Batsman stays low, stays in his crease and thwacks a slap over midwicket for another six.</item>
+        <item>Woooooow! Wheeeeee goes the ball. An offcutter on off, full from Bowler from around the wicket. What do you expect mate? Batsman slog-sweeps it 104 metres over midwicket. I want to bat here.</item>
+        <item>That\'s why the wide yorker isn\'t a bad option. Full delivery around off, in the slot and launched over long-on. Sensational timing again.</item>
+        <item>Best of the lot. That\'s so hard. Full delivery outside off, Batsman gets underneath the length and just lofts it, cleanly, waaay over cover.</item>
+        <item>Short but down leg, pulled way over fine leg for six. Helps it along. Good hit.</item>
+        <item>That\'s big. It\'s six. Stunning strike. Backed himself, got to the pitch and timed the lofted drive over long-off, with the spin. Lovely.</item>
+        <item>Crash. Tossed up on leg stump, gets the front leg there and lifts it with a golf-swing over the midwicket boundary.</item>
+    </string-array>
+</resources>
